@@ -2,7 +2,8 @@
     width: 100%;
     padding-top: 92px;
     margin: 0 auto;
-    overflow: hidden;
+    overflow: hidden; 
+    list-style: none;
 } 
 
 @media screen and (max-width: 1024px) {
