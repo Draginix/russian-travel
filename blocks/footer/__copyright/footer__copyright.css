@@ -7,6 +7,7 @@
     color: #FFFFFF;
     margin: 0;
     padding: 0;
+    white-space: pre;
 } 
 
 @media screen and (max-width: 320px) {
@@ -14,6 +15,5 @@
 		text-align: left;
 		line-height: 14px;
 		padding: 48px 0 24px;
-        white-space: pre;
 	}
 }
