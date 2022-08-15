@@ -2,9 +2,8 @@
     width: 100%;
 }  
 
-@media screen and (max-width: 320px) {
-	.place__link {
-		padding: 0 0 32px 16px;
-		max-width: 288px;
+@media screen and (max-width: 768px) {
+	.place__image {
+		margin-bottom: 32px;
 	}
 }

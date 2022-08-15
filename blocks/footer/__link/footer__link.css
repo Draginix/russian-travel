@@ -1,4 +1,8 @@
-.footer__link { 
+.footer__link {   
+    font-family: "Inter", "Arial ", sans-serif;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
