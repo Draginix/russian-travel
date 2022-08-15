@@ -1,5 +1,4 @@
-.lead { 
-    font-family: "Inter", "Arial ", sans-serif;
+.lead {
     width: calc(100% - 2*148px);
     padding-top: 56px;
     display: flex;
@@ -11,7 +10,7 @@
 @media screen and (max-width: 1024px) {
     .lead {
       width: calc(100% - 2*48px);
-      padding-top: 48px; 
+      padding-top: 48px;
       margin-bottom: 92px;
     }
 } 
@@ -19,7 +18,7 @@
   @media screen and (max-width: 768px) {
     .lead {
       width: 100%;
-      padding-top: 48px; 
+      padding-top: 48px;
       margin-bottom: 88px;
     }
 }
@@ -27,7 +26,7 @@
   @media screen and (max-width: 320px) {
     .lead {
       max-width: 320px;
-      padding-top: 48px; 
+      padding-top: 48px;
       margin-bottom: 64px;
     }
 }

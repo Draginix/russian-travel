@@ -1,8 +1,8 @@
 .photo-grid { 
-    width: calc(100% - 2*48px); 
+    width: calc(100% - 2*48px);
     max-width: 1184px;
     padding-top: 92px;
-    margin: 0 auto; 
+    margin: 0 auto;
     overflow: hidden;
 }
 
