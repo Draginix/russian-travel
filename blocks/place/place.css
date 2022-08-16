@@ -1,10 +1,10 @@
 .place {  
     width: 100%;
     display: grid;
-    grid-template-columns: repeat(2, 1fr); 
+    grid-template-columns: repeat(2, 1fr);
     grid-template-rows: auto;
     max-width: 984px;
-    column-gap: 40px; 
+    column-gap: 40px;
     row-gap: 48px;
     padding: 0 0 80px 0;
 }    
@@ -28,8 +28,8 @@
 
 @media screen and (max-width: 767px) {
     .place { 
-        display: flex; 
-        grid-template-columns: 1fr; 
+        display: flex;
+        grid-template-columns: 1fr;
         max-width: 320px;
         flex-direction: column;
         margin: 0 auto;
