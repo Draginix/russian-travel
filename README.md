@@ -16,7 +16,7 @@
 ### Планы по дороботке: 
 Возможность перевести сайт на английский язык. 
 
-### Ссылка на сайт: draginix.github.io/russian-travel/
+### Ссылка на сайт: https://draginix.github.io/russian-travel/
 
 
 

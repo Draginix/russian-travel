@@ -5,7 +5,8 @@
     font-size: 18px;
     line-height: 22px;
     color: #FFFFFF;
-    text-decoration-line: underline;
+    text-decoration-line: underline; 
+    width: fit-content;
 } 
   
 .place__link:hover {
@@ -14,7 +15,6 @@
 
 @media screen and (max-width: 320px) {
 	.place__link {
-		padding: 0 0 32px 16px;
 		max-width: 288px;
 	}
 }

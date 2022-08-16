@@ -7,15 +7,12 @@
     color: white;
     text-align: right;
     margin: 0;
-    padding: 0;
+    padding: 0; 
+    text-decoration: none;
 } 
   
 .header__lang-link:hover {
     opacity: 0.8;
-} 
-  
-.header__lang-link:last-child {
-    text-decoration: none;
 } 
   
 .header__lang-link:not(:last-child) {
