@@ -30,7 +30,7 @@
     .place { 
         display: flex; 
         grid-template-columns: 1fr; 
-        width: 320px;
+        max-width: 320px;
         flex-direction: column;
         margin: 0 auto;
         row-gap: 32px;

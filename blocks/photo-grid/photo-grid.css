@@ -1,20 +1,20 @@
 .photo-grid { 
-    width: calc(100% - 2*48px);
-    max-width: 1184px;
-    padding-top: 92px;
-    margin: 0 auto;
+  width: calc(100% - 2*48px);
+  max-width: 1184px;
+  padding-top: 92px;
+  margin: 0 auto;
 }
 
 @media screen and (max-width: 768px) {
-  .photo-grid {
-    padding-top: 88px;
-    width: calc(100% - 2*24px);
-  }
+.photo-grid {
+  padding-top: 88px;
+  width: calc(100% - 2*24px);
 }
-    
-@media screen and (max-width: 320px) {
-  .photo-grid {
-    width: calc(100% - 2*16px);
-    padding-top: 64px;
-  }
+}
+  
+@media screen and (max-width: 767px) {
+.photo-grid {
+  width: 288px;
+  padding-top: 64px;
+}
 }
