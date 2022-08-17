@@ -1,21 +1,6 @@
 .content {
-    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 } 
 
-@media screen and (max-width: 1024px) {
-  .content {
-    max-width: 1024px;
-  }
-} 
-
-@media screen and (max-width: 768px) {
-  .content {
-    max-width: 768px;
-  }
-}
-
-@media screen and (max-width: 320px) {
-  .content {
-    max-width: 320px;
-  }
-}
