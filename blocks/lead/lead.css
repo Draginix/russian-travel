@@ -4,13 +4,13 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-bottom: 92px;
 } 
 
 @media screen and (max-width: 1024px) {
     .lead {
       width: calc(100% - 2*48px);
       padding-top: 48px;
-      margin-bottom: 92px;
     }
 } 
   
