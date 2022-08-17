@@ -3,12 +3,19 @@
   font-style: normal;
   font-weight: 400;
   font-size: 30px;
-  line-height: 36px;
+  line-height: 120%;
   text-align: center;
   color: #FFFFFF;
   margin: 32px 0 0;
   max-width: 640px;
-} 
+}
+
+@media screen and (max-width: 768px) {
+  .lead__subtitle {
+    font-size: calc( (100vw - 375px)/(768 - 375) * (30 - 16) + 16px);
+    width: 83%;
+  }
+}
 
 @media screen and (max-width: 320px) {
   .lead__subtitle {
