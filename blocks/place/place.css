@@ -34,7 +34,6 @@
         grid-template-columns: 1fr;
         max-width: 320px;
         flex-direction: column;
-        margin: 0 auto;
         row-gap: 32px;
         padding: 0 0 50px 0;
     }
