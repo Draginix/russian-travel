@@ -18,7 +18,7 @@
 		padding: 88px 0 24px;
 	}
 } 
-
+/* Адаптирование под смартфоны */
 @media screen and (max-width: 767px) {
 	.footer {
 		max-width: 186px;

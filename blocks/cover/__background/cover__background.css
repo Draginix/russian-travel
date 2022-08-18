@@ -39,9 +39,16 @@
 	.cover__background {
 		min-height: 480px;
 	}
-} 
+}
 
-@media screen and (max-width: 767px) {
+/* Адаптирование под смартфоны */
+@media screen and (max-width: 540px) {
+	.cover__background {
+		min-height: 290px;
+	}
+}
+
+@media screen and (max-width: 320px) {
 	.cover__background {
 		min-height: 200px;
 	}
